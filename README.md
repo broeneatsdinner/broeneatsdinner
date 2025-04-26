@@ -20,9 +20,9 @@ I'm a penetration tester and cybersecurity professional passionate about open-so
 
 ---
 
-You’re doing the right thing. 
-**Light kit, heavy skill.** 
-That’s the way forward.
- 
+You’re doing the right thing.  
+**Light kit, heavy skill.**  
+That’s the way forward.  
+
 
 Broen Westberg // Penetration Tester // Cybersecurity Enthusiast
