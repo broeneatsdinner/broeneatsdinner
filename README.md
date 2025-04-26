@@ -20,8 +20,8 @@ I'm a penetration tester and cybersecurity professional passionate about open-so
 
 ---
 
-You’re doing the right thing.
-**Light kit, heavy skill.**
+You’re doing the right thing. 
+**Light kit, heavy skill.** 
 That’s the way forward.
  
 
