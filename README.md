@@ -1,6 +1,4 @@
-# Hi, I'm Broen Westberg 👋
-
-I'm a penetration tester and cybersecurity professional passionate about open-source security tools and adversary emulation.
+<h1>Hi, I'm Broen Westberg <img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/nothing_door.svg" alt="Cybersecurity Shield" width="26" height="26" style="vertical-align: middle; margin-left: 4px;"></h1>
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/broen)
 
