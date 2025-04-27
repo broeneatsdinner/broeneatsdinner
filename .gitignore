@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Folder view settings
+Desktop.ini
+.idea/
+
+# Trash files
+.Trashes
