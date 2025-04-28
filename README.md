@@ -1,4 +1,4 @@
-<h1>Hi, I'm Broen Westberg <img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/computer_talk_vectorized.svg" alt="Computer Talk" style="vertical-align: middle; margin: 0 4px; height: 1em;"></h1>
+<h1>Hi, I'm Broen Westberg <img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/computer_talk_vectorized.svg" alt="Computer Talk" style="vertical-align: middle; margin: 0 4px 0 4px; height: 1em;"></h1>
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/broen)
 
