@@ -24,3 +24,7 @@ That’s the way forward.
 
 
 Broen Westberg // Penetration Tester // Cybersecurity Enthusiast
+
+<br><br><br><br><br><br>
+
+<img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/nothing_logo_vectorized.svg" alt="Computer Talk" style="vertical-align: middle; margin: 0 4px 0 4px; height: 1em;">
