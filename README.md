@@ -18,6 +18,13 @@
 
 ---
 
+## 💡 Would like to acknowledge
+
+- All bastions are jump servers.
+- But not all jump servers are bastions.
+
+---
+
 You’re doing the right thing.  
 **Light kit, heavy skill.**  
 That’s the way forward.  
