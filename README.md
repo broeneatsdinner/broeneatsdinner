@@ -15,7 +15,7 @@ Security-minded systems operator and tool builder focused on offensive security,
 - repo hygiene and inventory tools
 - security-focused experiments and workflows
 
-Most of my repositories are private while they are still personal, local, or security-sensitive. Public repositories here are the cleaned-up projects I am ready to share.
+Most of my repositories are private while they are security-sensitive, local, or personal in nature. Public repositories here are intentionally cleaned, standardized, and ready to share.
 
 ---
 
