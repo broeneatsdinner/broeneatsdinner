@@ -10,12 +10,12 @@ I enter unfamiliar systems, map how they work, identify what matters, and organi
 
 ## What I build
 
-- operator-focused command-line tooling
+- Operator-focused command-line tooling
 - Linux and macOS systems automation
 - SSH, server, and VM operations tooling
-- media-processing pipelines
-- repo hygiene and inventory tools
-- security-focused experiments and workflows
+- Media-processing pipelines
+- Repo hygiene and inventory tools
+- Security-focused experiments and workflows
 
 Most of my repositories remain private while they are security-sensitive, local, or personal in nature. Public repositories here are intentionally cleaned, standardized, and ready to share.
 
