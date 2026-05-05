@@ -8,7 +8,7 @@ Security-minded systems operator and tool builder focused on offensive security,
 
 ## What I build
 
-- command-line helper tools
+- operator-focused command-line tooling
 - macOS automation utilities
 - SSH/server operations tooling
 - media-processing scripts
