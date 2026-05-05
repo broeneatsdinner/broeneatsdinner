@@ -2,7 +2,7 @@
 
 Security-minded systems operator and tool builder focused on offensive security, AI security, Linux and macOS systems, and practical automation.
 
-Drop me into any system and I will determine where everything is, how it works, what matters, what is risky, and where things should live so the team does not get lost.
+I enter unfamiliar systems, map how they work, identify what matters, and organize them so teams do not get lost.
 
 [LinkedIn](https://www.linkedin.com/in/broen)
 
