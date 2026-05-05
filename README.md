@@ -1,6 +1,6 @@
 <h1>Broen Westberg</h1>
 
-Security-minded systems operator and tool builder focused on offensive security, AI security, Linux/macOS systems, and practical automation.
+Security-minded systems operator and tool builder focused on offensive security, AI security, Linux and macOS systems, and practical automation.
 
 [LinkedIn](https://www.linkedin.com/in/broen)
 
@@ -9,7 +9,7 @@ Security-minded systems operator and tool builder focused on offensive security,
 ## What I build
 
 - operator-focused command-line tooling
-- Linux/macOS systems automation
+- Linux and macOS systems automation
 - SSH, server, and VM operations tooling
 - media-processing pipelines
 - repo hygiene and inventory tools
@@ -52,17 +52,16 @@ Most of my repositories remain private while they are security-sensitive, local,
 
 ## Operator ethos
 
-I build systems for myself.  
-I document them.  
-I standardize them.  
-I maintain them.  
-I know where things live.  
-I can audit my own environment.  
+I build systems, then make them inspectable.  
+I document what matters.  
+I standardize what repeats.  
+I maintain what I depend on.  
+I audit my environments.  
 I turn repeated friction into tooling.
 
-That is systems engineering.  
-That is security mindset.  
-That is operator DNA.
+Systems engineering.  
+Security mindset.  
+Operator DNA.
 
 ---
 
