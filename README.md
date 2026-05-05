@@ -1,37 +1,63 @@
-<h1>Hi, I'm Broen Westberg <img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/computer_talk_vectorized.svg" alt="Computer Talk" style="vertical-align: middle; margin: 0 4px 0 4px; height: 1em;"></h1>
+<h1>Broen Westberg</h1>
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/broen)
+Security-minded systems operator and tool builder focused on offensive security, AI security, Linux/macOS systems, and practical automation.
 
-## 🔧 Some highlights
-
-- 💻 **Contributor** to [tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh)  
-- 🧠 **Building** a stealth engagement platform for tracking social engineering threat actors  
-- ⚓ **Ex-Coast Guard Auxiliary officer** (FSO-MA) with a background in SAR, comms, and security — now building open-source tools for and participating in red teams
+[LinkedIn](https://www.linkedin.com/in/broen)
 
 ---
 
-## 📌 Currently working on
+## What I build
 
-- Completing **CompTIA PenTest+** and **Security+**  
-- Expanding my offensive tooling portfolio  
-- Publishing documentation on social engineering tracking platforms
+- command-line helper tools
+- macOS automation utilities
+- SSH/server operations tooling
+- media-processing scripts
+- repo hygiene and inventory tools
+- security-focused experiments and workflows
 
----
-
-## 💡 Would like to acknowledge
-
-- All bastions are jump servers.
-- But not all jump servers are bastions.
+Most of my repositories are private while they are still personal, local, or security-sensitive. Public repositories here are the cleaned-up projects I am ready to share.
 
 ---
 
-You’re doing the right thing.  
-**Light kit, heavy skill.**  
-That’s the way forward.  
+## Current focus
 
+- AI security and red teaming
+- offensive security tooling
+- Linux systems engineering
+- practical automation
+- turning repeated friction into documented tools
 
-Broen Westberg // Penetration Tester // Cybersecurity Enthusiast
+---
 
-<br><br><br><br>
+## Working philosophy
 
-<img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/nothing_logo_vectorized.svg" alt="Computer Talk" style="vertical-align: middle; margin: 0 4px 0 4px; height: 1em;">
+- Fundamentals first
+- Light kit, heavy skill
+- Make systems inspectable
+- Prefer boring, readable code
+- Build tools that explain where they live and what they do
+
+---
+
+## Operator ethos
+
+I build systems for myself.  
+I document them.  
+I standardize them.  
+I maintain them.  
+I know where things live.  
+I can audit my own environment.  
+I turn repeated friction into tooling.
+
+That is systems engineering.  
+That is security mindset.  
+That is operator DNA.
+
+---
+
+Broen Westberg  
+Security practitioner · systems operator · tool builder
+
+<br>
+
+<img src="https://raw.githubusercontent.com/broeneatsdinner/broeneatsdinner/main/assets/icons/nothing_logo_vectorized.svg" alt="Nothing, LLC" height="18">
