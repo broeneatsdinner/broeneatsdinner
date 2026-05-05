@@ -21,11 +21,11 @@ Most of my repositories remain private while they are security-sensitive, local,
 
 ## Current focus
 
-- AI security and red teaming
-- offensive security tooling
-- Linux systems engineering
-- practical automation
-- turning repeated friction into documented tools
+- AI security and LLM application security
+- Offensive security practice, methodology, tooling, and home-lab work
+- Linux and macOS administration across VMs, cloud servers, and personal infrastructure
+- Standardizing command-line tooling, repo hygiene, and environment-audit workflows
+- Preparing selected private tools for public release through security review and documentation
 
 ---
 
@@ -36,6 +36,16 @@ Most of my repositories remain private while they are security-sensitive, local,
 - Make systems inspectable
 - Prefer boring, readable code
 - Build tools that explain where they live and what they do
+
+---
+
+## Technical interests
+
+- Hardware-level security research and embedded systems
+- Social engineering as an offensive security testing discipline
+- Taking systems apart to understand how they work, then rebuilding or modifying them with intent
+- Signal capture, transmission behavior, and exploring what is observable in the air
+- Quiet movement through systems: observe, understand, document, and leave cleanly
 
 ---
 
