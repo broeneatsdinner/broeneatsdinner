@@ -34,6 +34,7 @@ Most of my repositories remain private while they are security-sensitive, local,
 - Fundamentals first
 - Light kit, heavy skill
 - Make systems inspectable
+- Quick execution, meticulous standards
 - Prefer boring, readable code
 - Build tools that explain where they live and what they do
 
